@@ -6,8 +6,8 @@ public class sample {
 		System.out.println("HI");
      int a =10;
      int b =20;
-     int Sum=a+b;
-     System.out.println(Sum);
+     int multi=a*b;
+     System.out.println(multi);
      
 	}
 
