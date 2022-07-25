@@ -3,8 +3,12 @@ package com.demoproject;
 public class sample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("HI");
+     int a =10;
+     int b =20;
+     int Sum=a+b;
+     System.out.println(Sum);
+     
 	}
 
 }
